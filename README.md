@@ -58,7 +58,7 @@ Actualmente profundizando en <b>Machine Learning</b> e <b>Inteligencia Artificia
 </p>
 <hr/>
 
-<h3>💻 Proyectos Universitarios</h3>
+<h3>📝 Proyectos Universitarios</h3>
 <br>
 <div width="100%" align="center">
 <a align="center" href="https://github.com/Dalinar69/docker-lamp" title="docker-lamp">
@@ -70,7 +70,15 @@ Actualmente profundizando en <b>Machine Learning</b> e <b>Inteligencia Artificia
 </a>
 </div>
 <p><i>* Forks de trabajos grupales realizados durante la carrera.</i></p>
+<br/>
+  
+  <p>
+    <a href="https://github.com/Dalinar69?tab=repositories">
+      <img src="https://img.shields.io/badge/-Ver_todos_mis_repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Todos los repositorios" />
+    </a>
+  </p>
 
+  <br/>
 <hr/>
 
 <h3>📊 Mis Estadísticas</h3>
@@ -87,13 +95,5 @@ Actualmente profundizando en <b>Machine Learning</b> e <b>Inteligencia Artificia
 <img src="https://img.shields.io/badge/Gmail-ikerarga3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 </p>
-<br/>
-  
-  <p>
-    <a href="https://github.com/Dalinar69?tab=repositories">
-      <img src="https://img.shields.io/badge/-Ver_todos_mis_repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Todos los repositorios" />
-    </a>
-  </p>
 
-  <br/>
 </div>
