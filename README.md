@@ -75,7 +75,11 @@ Actualmente profundizando en <b>Machine Learning</b> e <b>Inteligencia Artificia
 <img align="center" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dalinar69&repo=Proyecto_ADSI&theme=react&border_color=FFFFFF&border_radius=10&cache=1" alt="Proyecto_ADSI" />
 </a>
 </div>
-<p><i>* Forks de trabajos grupales realizados durante la carrera.</i></p>
+<br>
+
+<p align="center">
+  <i>* Forks de trabajos grupales realizados durante la carrera.</i>
+</p>
 <br/>
 
 <h3>🧑‍💻 Proyectos Personales</h3>
