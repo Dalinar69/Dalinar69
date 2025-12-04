@@ -75,7 +75,7 @@ Actualmente profundizando en <b>Machine Learning</b> e <b>Inteligencia Artificia
 <br>
 <div width="100%" align="center">
 <a align="center" href="https://github.com/Dalinar69/movie-recommendation-engine" title="docker-lamp">
-<img align="center" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dalinar69&repo=movie-recommendation-engine&theme=react&border_color=FFFFFF&border_radius=10&cache=1" alt="docker-lamp" />
+<img align="center" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dalinar69&repo=movie-recommendation-engine&theme=react&border_color=FFFFFF&border_radius=10&cache999" alt="docker-lamp" />
 </a>
 </div>
 <br/>
