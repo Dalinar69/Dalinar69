@@ -29,11 +29,17 @@ Actualmente profundizando en <b>Machine Learning</b> e <b>Inteligencia Artificia
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
+<h3>🎨 Frontend</h3>
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
 <h3>🗄️ Bases de Datos & Backend</h3>
 <p>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/GraphDB-00599C?style=for-the-badge&logo=neo4j&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 <h3>☁️ DevOps & Cloud</h3>
@@ -71,21 +77,22 @@ Actualmente profundizando en <b>Machine Learning</b> e <b>Inteligencia Artificia
 </div>
 <p><i>* Forks de trabajos grupales realizados durante la carrera.</i></p>
 <br/>
+
 <h3>🧑‍💻 Proyectos Personales</h3>
 <br>
 <div width="100%" align="center">
-<a align="center" href="https://github.com/Dalinar69/movie-recommendation-engine" title="docker-lamp">
-<img align="center" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dalinar69&repo=movie-recommendation-engine&theme=react&border_color=FFFFFF&border_radius=10&cache999" alt="docker-lamp" />
+<a align="center" href="https://github.com/Dalinar69/movie-recommendation-engine" title="Movie Recommendation Engine">
+<img align="center" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dalinar69&repo=movie-recommendation-engine&theme=react&border_color=FFFFFF&border_radius=10&cache=999" alt="Movie Recommendation Engine" />
 </a>
 </div>
 <br/>
-  <p>
-    <a href="https://github.com/Dalinar69?tab=repositories">
-      <img src="https://img.shields.io/badge/-Ver_todos_mis_repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Todos los repositorios" />
-    </a>
-  </p>
 
-  <br/>
+<p>
+  <a href="https://github.com/Dalinar69?tab=repositories">
+    <img src="https://img.shields.io/badge/-Ver_todos_mis_repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Todos los repositorios" />
+  </a>
+</p>
+<br/>
 <hr/>
 
 <h3>📊 Mis Estadísticas</h3>
