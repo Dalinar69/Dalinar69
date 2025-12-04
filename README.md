@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>👋 ¡Kaixo! Soy Iker</h1>
-<img src="coding.gif" width="400" alt="Gif programando" />
+<img src="coding1.gif" width="400" alt="Gif programando" />
 <br/><br/>
 
 <h3>🎓 Finalizando Ingeniería Informática en la UPV/EHU</h3>
