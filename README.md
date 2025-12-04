@@ -71,7 +71,14 @@ Actualmente profundizando en <b>Machine Learning</b> e <b>Inteligencia Artificia
 </div>
 <p><i>* Forks de trabajos grupales realizados durante la carrera.</i></p>
 <br/>
-  
+<h3>🧑‍💻 Proyectos Personales</h3>
+<br>
+<div width="100%" align="center">
+<a align="center" href="https://github.com/Dalinar69/movie-recommendation-engine" title="docker-lamp">
+<img align="center" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dalinar69&repo=movie-recommendation-engine&theme=react&border_color=FFFFFF&border_radius=10&cache=1" alt="docker-lamp" />
+</a>
+</div>
+<br/>
   <p>
     <a href="https://github.com/Dalinar69?tab=repositories">
       <img src="https://img.shields.io/badge/-Ver_todos_mis_repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Todos los repositorios" />
