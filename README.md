@@ -87,4 +87,13 @@ Actualmente profundizando en <b>Machine Learning</b> e <b>Inteligencia Artificia
 <img src="https://img.shields.io/badge/Gmail-ikerarga3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 </p>
+<br/>
+  
+  <p>
+    <a href="https://github.com/Dalinar69?tab=repositories">
+      <img src="https://img.shields.io/badge/-Ver_todos_mis_repositorios-181717?style=for-the-badge&logo=github&logoColor=white" alt="Todos los repositorios" />
+    </a>
+  </p>
+
+  <br/>
 </div>
