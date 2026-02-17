@@ -88,10 +88,6 @@ Actualmente profundizando en <b>Machine Learning</b> e <b>Inteligencia Artificia
 <a align="center" href="https://github.com/Dalinar69/movie-recommendation-engine" title="Movie Recommendation Engine">
 <img align="center" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dalinar69&repo=movie-recommendation-engine&theme=react&border_color=FFFFFF&border_radius=10&cache=999" alt="Movie Recommendation Engine" />
 </a>
-<span> --------------- </span>
-<a align="center" href="https://github.com/Dalinar69/OnePieceArcFilmExplorer" title="OnePieceArcFilmExplorer">
-<img align="center" height="140" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Dalinar69&repo=OnePieceArcFilmExplorer&theme=react&border_color=FFFFFF&border_radius=10&cache=1" alt="OnePieceArcFilmExplorer" />
-</a>
 </div>
 <br/>
 
